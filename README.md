@@ -1,2 +1,2 @@
 # didactic-potato
-Electricity theft detection using ANN
+Electricity theft detection using ANN and Random Forest
